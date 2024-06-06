@@ -20,6 +20,7 @@
   <img align="center" alt="Vitor-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Vitor-OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
   <img align="center" alt="Vitor-ROS" height="21" width="80" src="https://www.ros.org/imgs/logo-white.png">
+  <img align="center" alt="Vitor-Netlify" height="21" width="80" src="https://api.netlify.com/api/v1/badges/e66ba48a-25c8-46d4-94a2-ef4e6c54797c/deploy-status">
   </div><br>
   
   
