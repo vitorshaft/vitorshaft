@@ -24,6 +24,7 @@
   <img align="center" alt="Vitor-OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
   <img align="center" alt="Vitor-YOLO" height="30" src="https://banner2.cleanpng.com/20180331/kew/avh5ccwbd.webp">
   <img align="center" alt="Vitor-ROS" height="21" width="80" src="https://www.ros.org/imgs/logo-white.png">
+  <img align="center" alt="Vitor-Docker" height="30" src="https://media.licdn.com/dms/image/v2/D4E0BAQFWt4Tl53wjZQ/company-logo_200_200/company-logo_200_200/0/1705960989383/docker_logo?e=1748476800&v=beta&t=D0xDT0ol14XlmpQNYlLzRshN73uCkcHMyIJscKsD_eA">
   </div><br>
   
   
