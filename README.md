@@ -17,7 +17,6 @@
     </div>
   </details>
 </div>
-<br>
 <div>
   <details>
     <summary style="background-color: #0077b5; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; display: inline-block;">
@@ -39,12 +38,11 @@
 
 #### Principais projetos:
 
-<!-- <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;"> -->
 <div style="display: inline_block"><br>
-    <img src="midia/kalmanTracker.gif" alt="Projeto 1" style="width: 30%; border-radius: 10px;">
-    <img src="midia/Arduino3DLED.gif" alt="Projeto 2" style="width: 30%; border-radius: 10px;">
-    <img src="midia/VisualServoing.gif" alt="Projeto 3" style="width: 30%; border-radius: 10px;">
+    <img src="midia/cyberplanta.gif" alt="Projeto 1" style="width: 30%; border-radius: 10px;">
+    <img src="midia/VisualServoing.gif" alt="Projeto 2" style="width: 30%; border-radius: 10px;">
+    <img src="midia/kalmanTracker.gif" alt="Projeto 3" style="width: 30%; border-radius: 10px;">
+    <img src="midia/Arduino3DLED.gif" alt="Projeto 4" style="width: 30%; border-radius: 10px;">
 </div>
 
 <div style="display: inline_block"><br>
