@@ -39,10 +39,10 @@
 #### Principais projetos:
 
 <div style="display: inline_block"><br>
-    <img src="midia/cyberplanta.gif" alt="Projeto 1" height="35" width="25%">
-    <img src="midia/VisualServoing.gif" alt="Projeto 2" height="35" width="25%">
-    <img src="midia/kalmanTracker.gif" alt="Projeto 3" height="35" width="25%">
-    <img src="midia/Arduino3DLED.gif" alt="Projeto 4" height="35" width="25%">
+    <img src="midia/cyberplanta.gif" alt="Projeto 1"  width="20%">
+    <img src="midia/VisualServoing.gif" alt="Projeto 2"  width="20%">
+    <img src="midia/kalmanTracker.gif" alt="Projeto 3"  width="20%">
+    <img src="midia/Arduino3DLED.gif" alt="Projeto 4"  width="20%">
 </div>
 
 <div style="display: inline_block"><br>
