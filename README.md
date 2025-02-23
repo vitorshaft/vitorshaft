@@ -3,7 +3,7 @@
 <div>
   <details>
     <summary style="background-color: #0077b5; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; display: inline-block;">
-      Switch to English | Alternar para Inglês
+      🇺🇸 About me
     </summary>
     <div id="english-text">
       - 🤖 I currently work with IoT, Robotics, Computer Vision and Automation. <br>
@@ -18,7 +18,11 @@
   </details>
 </div>
 <br>
-
+<div>
+  <details>
+    <summary style="background-color: #0077b5; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; display: inline-block;">
+      🇧🇷 Sobre mim 
+    </summary>
 <div id="portuguese-text">
   - 🤖 Trabalho atualmente com IoT, Robótica, Visão Computacional e Automação. <br>
   - 🧠 Atualmente estudando Visão Computacional com C++. <br>
@@ -28,14 +32,19 @@
   - 📺 https://instagram.com/shaftrobotica <br>
   - 💼 https://www.linkedin.com/in/vitor-domingues-4852a62a8/ <br>
   <br>
+    </div>
+  </details>
 </div>
+<br>
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    <img src="midia/kalmanTracker.gif" alt="Projeto 1" style="width: 100%; border-radius: 10px;">
-    <img src="midia/Arduino3DLED.gif" alt="Projeto 2" style="width: 100%; border-radius: 10px;">
-    <img src="midia/VisualServoing.gif" alt="Projeto 3" style="width: 100%; border-radius: 10px;">
-  </div>
+#### Principais projetos:
+
+<!-- <div style="display: flex; justify-content: center; margin-top: 20px;">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;"> -->
+<div style="display: inline_block"><br>
+    <img src="midia/kalmanTracker.gif" alt="Projeto 1" style="width: 30%; border-radius: 10px;">
+    <img src="midia/Arduino3DLED.gif" alt="Projeto 2" style="width: 30%; border-radius: 10px;">
+    <img src="midia/VisualServoing.gif" alt="Projeto 3" style="width: 30%; border-radius: 10px;">
 </div>
 
 <div style="display: inline_block"><br>
