@@ -38,17 +38,11 @@
 
 #### Principais projetos:
 
-<div style="text-align: center;">
-  <div style="display: inline-block">
-    <img src="midia/cyberplanta.gif" alt="Projeto 1" width="25%">
-    <div style="margin-top: 5px; font-size: 14px; color: #333;">Cyberplanta - IoT</div>
-    <img src="midia/VisualServoing.gif" alt="Projeto 2" width="25%">
-    <div style="margin-top: 5px; font-size: 14px; color: #333;">Visual Servoing</div>
-    <img src="midia/kalmanTracker.gif" alt="Projeto 3" width="25%">
-    <div style="margin-top: 5px; font-size: 14px; color: #333;">Kalman Tracker</div>
-    <img src="midia/Arduino3DLED.gif" alt="Projeto 4" width="25%">
-    <div style="margin-top: 5px; font-size: 14px; color: #333;">Accelerometer 3D Cube</div>
-  </div>
+<div style="display: inline_block"><br>
+    <img src="midia/cyberplanta.gif" alt="Projeto 1"  width="20%">
+    <img src="midia/VisualServoing.gif" alt="Projeto 2"  width="20%">
+    <img src="midia/kalmanTracker.gif" alt="Projeto 3"  width="20%">
+    <img src="midia/Arduino3DLED.gif" alt="Projeto 4"  width="20%">
 </div>
 
 <div style="display: inline_block"><br>
