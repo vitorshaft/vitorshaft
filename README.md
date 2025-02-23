@@ -28,13 +28,13 @@
    <br>
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
+
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
     <img src="midia\kalmanTracker.gif" alt="Projeto 1" style="width: 100%; border-radius: 10px;">
     <img src="midia\Arduino3DLED.gif" alt="Projeto 2" style="width: 100%; border-radius: 10px;">
     <img src="midia\VisualServoing.gif" alt="Projeto 3" style="width: 100%; border-radius: 10px;">
   </div>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Py" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
