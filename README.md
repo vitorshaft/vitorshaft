@@ -42,7 +42,7 @@
     <img src="midia/cyberplanta.gif" alt="Projeto 1"  width="30%">
     <img src="midia/VisualServoing.gif" alt="Projeto 2"  width="30%">
     <img src="midia/kalmanTracker.gif" alt="Projeto 3"  width="30%">
-    <img src="midia/Arduino3DLED.gif" alt="Projeto 4"  width="30%">
+    <img src="midia/path.jpg" alt="Projeto 4"  width="30%">
     <img src="midia/visualCubesat.gif" alt="Projeto 5"  width="30%">
     <img src="midia/esp32LightMQTT.gif" alt="Projeto 4"  width="30%">
 </div>
