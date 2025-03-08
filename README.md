@@ -41,8 +41,8 @@
 <div style="display: inline_block"><br>
     <img src="midia/cyberplanta.gif" alt="Projeto 1"  width="28%">
     <img src="midia/VisualServoing.gif" alt="Projeto 2"  width="28%">
-    <img src="midia/kalmanTracker.gif" alt="Projeto 3"  width="28%">
-    <img src="midia/path.jpg" alt="Projeto 4"  width="28%">
+    <img src="midia/kukaGcode.gif" alt="Projeto 3"  width="28%">
+    <img src="midia/localization.gif" alt="Projeto 4"  width="28%">
     <img src="midia/visualCubesat.gif" alt="Projeto 5"  width="28%">
     <img src="midia/esp32LightMQTT.gif" alt="Projeto 6"  width="28%">
 </div>
